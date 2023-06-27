@@ -1,0 +1,3 @@
+[submodule "openai-agent"]
+	path = openai-agent
+	url = https://github.com/laipz8200/openai-agent.git
